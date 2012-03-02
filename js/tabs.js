@@ -16,9 +16,6 @@ $(document).ready(function() {
 function switchTab() {
 	
 	console.log(tabToShow);	   // will return '#tab-1' when you click on an 'a' button
-			
-
-	
 }
 
 
